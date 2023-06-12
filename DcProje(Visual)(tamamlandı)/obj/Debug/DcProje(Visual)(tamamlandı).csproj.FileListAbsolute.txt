@@ -1,0 +1,11 @@
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\bin\Debug\DcProje(Visual)(tamamlandı).exe.config
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\bin\Debug\DcProje(Visual)(tamamlandı).exe
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\bin\Debug\DcProje(Visual)(tamamlandı).pdb
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje(Visual)(tamamlandı).csproj.AssemblyReference.cache
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje(Visual)(tamamlandı).csproj.SuggestedBindingRedirects.cache
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje_Visual__tamamlandı_.Form1.resources
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje_Visual__tamamlandı_.Properties.Resources.resources
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje(Visual)(tamamlandı).csproj.GenerateResource.cache
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje(Visual)(tamamlandı).csproj.CoreCompileInputs.cache
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje(Visual)(tamamlandı).exe
+C:\Users\serca\Desktop\Proje Son Halleri\DcProje(Visual)(tamamlandı)\DcProje(Visual)(tamamlandı)\obj\Debug\DcProje(Visual)(tamamlandı).pdb
